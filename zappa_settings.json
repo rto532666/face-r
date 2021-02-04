@@ -1,0 +1,10 @@
+{
+ "dev": {
+ "app_function": "app.app",
+ "profile_name": "mihirn",
+ "project_name": "zappa-flask-app",
+ "runtime": "python3.7",
+ "s3_bucket": "zappa-9cf4j0c1h",
+ "aws_region": "us-east-2"
+ }
+}
